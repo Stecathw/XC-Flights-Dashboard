@@ -1,5 +1,7 @@
 # XC-Flights-Dashboard
 
+Video Demo: https://www.youtube.com/watch?v=qOIYOUy1wuw
+
 A simple but powerful dashboard to analyse and make stats from XC paragliding flights datas.
 Deployed here : https://xcflightsdashboard.herokuapp.com/
 
